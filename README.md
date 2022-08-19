@@ -1,2 +1,3 @@
-# individual-assignment
-This is a test repository for the WPR281 2022 individual assignment. This will probably be deleted later on.
+Reading this is a waste of time.
+
+I've done the task as you can see, now pay up (in marks)
